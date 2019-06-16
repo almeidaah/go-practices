@@ -1,12 +1,9 @@
-#Purpose
+# Purpose
 
 I've just created this repo to have fun and learn the features of go-language.
 Some examples I took from internet to practice and other cases I coded from the book "Introducing go", that can be found here:
 http://shop.oreilly.com/product/0636920046516.do
-# Go example projects
 
-This repository contains a collection of Go programs and libraries that
-demonstrate the language, standard libraries, and tools.
 
 ## The examples
 
